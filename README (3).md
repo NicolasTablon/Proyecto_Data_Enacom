@@ -8,7 +8,7 @@ El repositorio contiene los siguientes archivos y carpetas:
 
 - **README.md**: Este archivo proporciona información general sobre el proyecto y cómo utilizarlo.
 - **data**: Esta carpeta contiene los conjuntos de datos utilizados en el análisis. Los datos están en formato CSV y se dividen en diferentes categorías, como ingresos, clientes y servicios.
-- **reports**: Esta carpeta contiene informes generados durante el análisis, que incluyen visualizaciones, resultados y conclusiones relevantes obtenidos a partir de los datos.
+- **EDA**: Este archivo contiene informes generados durante el análisis, que incluyen visualizaciones, resultados y conclusiones relevantes obtenidos a partir de los datos.
 
 ## Proceso de Análisis
 
