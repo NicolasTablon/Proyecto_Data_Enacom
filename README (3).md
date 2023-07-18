@@ -34,6 +34,6 @@ Los siguientes son los indicadores clave de rendimiento (KPIs) establecidos para
 
 En esta sección encontrarás un análisis detallado del proyecto. Para acceder al análisis completo, haz clic en el siguiente enlace:
 
-- [Análisis Completo](ruta/al/analisis/analisis.md)
+- [Análisis Completo]:(https://github.com/NicolasTablon/Proyecto_Data_Enacom/blob/main/An%C3%A1lisis)
 
 El análisis proporciona información exhaustiva sobre el proyecto, incluyendo datos, resultados, conclusiones y recomendaciones. Te invitamos a explorarlo para obtener una visión más profunda del trabajo realizado.
