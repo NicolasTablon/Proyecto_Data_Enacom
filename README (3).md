@@ -21,4 +21,19 @@ El análisis se divide en varias etapas:
 3. **Análisis de clientes**: Se examina la evolución de la cantidad de clientes de ENACOM en diferentes servicios, como fibra óptica, 4G y telefonía fija. Se buscan relaciones entre el crecimiento de clientes y otros factores.
 4. **Análisis de penetración de servicios**: Se evalúa la penetración de servicios de telecomunicaciones en los hogares, como la adopción de fibra óptica, y se identifican las provincias con mayor y menor penetración.
 5. **Generación de informes y visualizaciones**: Se generan informes y visualizaciones que resumen los hallazgos del análisis. Estos informes incluyen gráficos, tablas y conclusiones relevantes.
+## KPIs
 
+Los siguientes son los indicadores clave de rendimiento (KPIs) establecidos para el proyecto:
+
+- **Aumento de Ingresos**: El objetivo es aumentar en un 10% los ingresos en comparación con el año anterior.
+- **Crecimiento de Usuarios de Fibra Óptica**: Se busca aumentar en un 10% la cantidad de usuarios de fibra óptica en el período establecido.
+- **Expansión de Clientes/Fibra Optica por Provincia**: El objetivo es lograr un incremento del 10% en la cantidad de clientes por provincia.
+
+
+## Análisis
+
+En esta sección encontrarás un análisis detallado del proyecto. Para acceder al análisis completo, haz clic en el siguiente enlace:
+
+- [Análisis Completo](ruta/al/analisis/analisis.md)
+
+El análisis proporciona información exhaustiva sobre el proyecto, incluyendo datos, resultados, conclusiones y recomendaciones. Te invitamos a explorarlo para obtener una visión más profunda del trabajo realizado.
